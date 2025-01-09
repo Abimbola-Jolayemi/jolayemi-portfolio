@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <section id="home" className="relative bg-black text-white min-h-screen flex items-center justify-center">
       <div className="absolute top-0 left-0 w-full h-full bg-cover bg-center bg-no-repeat" 
-           style={{ backgroundImage: "url('/src/assets/images/Pro-headshot-removebg.png')" }}>
+           style={{ backgroundImage: "url('/assets/images/Pro-headshot-removebg.png')" }}>
         {/* Fading effect using gradient */}
         <div className="w-full h-full bg-gradient-to-b from-black to-transparent opacity-60" />
       </div>

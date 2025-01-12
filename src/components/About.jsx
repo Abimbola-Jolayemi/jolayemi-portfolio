@@ -19,7 +19,7 @@ const About = () => {
     engineer skilled in frontend technologies like HTML, CSS, JavaScript,
     and ReactJS, and backend development using MERN Stack, Java,
     JavaScript, and Python. I specialize in designing RESTful APIs and
-    building scalable, user-centric web applications. I also have experience in <span className="font-bold">Quality Assurance (QA)</span>, where I focus on ensuring software reliability through thorough testing, including manual and automated testing. I’ve worked with tools like Jest, Postman, JUnit, Pytest and Unittest to improve software quality, and I am always refining my approach to detecting and resolving issues early in the development lifecycle. My journey as a software developer is driven by a
+    building scalable, user-centric web applications. I have passion in ensuring software reliability through thorough testing, including manual and automated testing. I’ve worked with tools like Jest, Postman, JUnit, Pytest and Unittest to improve software quality, and I am always refining my approach to detecting and resolving issues early in the development lifecycle. My journey as a software developer is driven by a
     desire to solve real-world problems and continually improve my
     skillset with the latest technologies.
   </p>

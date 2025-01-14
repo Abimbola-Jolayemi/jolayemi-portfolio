@@ -67,8 +67,8 @@ const About = () => {
           {activeTab === 0 && (
             <div className="text-lg text-gray-700">
               <ul className="list-disc list-inside">
-                <li>HTML, CSS, JavaScript</li>
                 <li>ReactJS, Node.js, Express</li>
+                <li>HTML, CSS, JavaScript</li>
                 <li>Python, Java, GoLang</li>
                 <li>Test-Driven Development</li>
                 <li>Jest, Junit, Postman, Unittest, Pytest</li>

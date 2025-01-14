@@ -7,7 +7,7 @@ const projects = [
     description:
       'AnonSpace is an innovative anonymous chat application designed for users who wish to communicate without revealing their personal information.',
     fullDescription:
-      'AnonSpace is an innovative anonymous chat application designed for users who wish to communicate without revealing their personal information. The app allows users to join various chat rooms, interact with others, and engage in private conversations. The app includes features like real-time messaging, user-friendly interfaces, and a clean design that enhances the overall user experience.',
+      'AnonSpace is an innovative anonymous chat application designed for users who wish to communicate without revealing their personal information. Anonspace is Node.Js app that allows users to join various chat rooms, interact with others, and engage in private conversations. The app includes features like real-time messaging, user-friendly interfaces, and a clean design that enhances the overall user experience.',
     hostedLink: 'https://anonspace-chat.onrender.com/',
     githubLink: 'https://github.com/Abimbola-Jolayemi/anonspace-chat-room/tree/feature/add-time',
   },
